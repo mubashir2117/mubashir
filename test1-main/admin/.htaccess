@@ -1,6 +1,0 @@
-RewriteEngine on 
-
-
-RewriteRule ^index$ index.php [L]
-RewriteRule ^about$ about.php [L]
-RewriteRule ^login$ login.php [L]
